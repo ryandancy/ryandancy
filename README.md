@@ -2,12 +2,12 @@
 
 I'm Ryan Dancy. Currently looking for Fall 2021 internship opportunities!
 
-- 💻 Software Engineering 2024 @ UWaterloo
-- ⚡ Firmware Lead @ [Midnight Sun Solar Car Team](https://github.com/uw-midsun)
+- Software Engineering 2024 @ UWaterloo
+- Firmware Lead @ [Midnight Sun Solar Car Team](https://github.com/uw-midsun)
 
 Previously:
-- 🚗 Backend SWE Intern @ [Uber](https://github.com/uber)
-- 🛒 Full-Stack SWE Intern @ [Wish](https://github.com/wish)
+- Backend SWE Intern @ [Uber](https://github.com/uber)
+- Full-Stack SWE Intern @ [Wish](https://github.com/wish)
 
 
 ---
