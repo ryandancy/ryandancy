@@ -1,26 +1,12 @@
 ### Hello!
 
-I'm Ryan Dancy.
+I'm Ryan Dancy (he/him).
 
 - Software Engineering 2024 @ UWaterloo
-- Robotics and Software Engineering Co-op @ [Mission Control Space Services](https://missioncontrolspaceservices.com)
-- Firmware Lead @ [Midnight Sun Solar Car Team](https://github.com/uw-midsun)
+- Incoming AR/VR Intern @ [European Space Agency](https://www.esa.int)
+- Firmware Advisor @ [Midnight Sun Solar Car Team](https://github.com/uw-midsun)
 
 Previously:
 - Backend SWE Intern @ [Uber](https://github.com/uber)
 - Full-Stack SWE Intern @ [Wish](https://github.com/wish)
-
-<!--
-**ryandancy/ryandancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Robotics and Software Engineering Co-op @ [Mission Control Space Services](https://missioncontrolspaceservices.com)
