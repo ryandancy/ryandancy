@@ -3,7 +3,7 @@
 I'm Ryan Dancy (he/him).
 
 - Software Engineering 2024 @ UWaterloo
-- Incoming AR/VR Intern @ [European Space Agency](https://www.esa.int)
+- AR/VR Intern @ [European Space Agency](https://www.esa.int)
 - Firmware Advisor @ [Midnight Sun Solar Car Team](https://github.com/uw-midsun)
 
 Previously:
