@@ -3,7 +3,7 @@
 I'm Ryan Dancy (he/him).
 
 - Software Engineering 2024 at UWaterloo
-- Software Intern on the [EAGLE-1](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Eagle-1) quantum key distribution satellite at [SES](https://ses.com)
+- Software Intern on the [EAGLE-1](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Eagle-1) quantum key distribution satellite at [SES](https://ses.com) 🇱🇺
 
 Previously:
 - AR/VR Intern at the [European Space Agency](https://www.esa.int)
