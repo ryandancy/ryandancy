@@ -2,6 +2,7 @@
 
 I'm Ryan Dancy (he/him).
 
+- AI Research Intern at [Waabi](https://waabi.ai)
 - Software Engineering 2024 at UWaterloo
 
 Previously:
