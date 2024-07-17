@@ -1,9 +1,6 @@
 ### Hello!
 
-I'm Ryan Dancy (he/him).
-
-- AI Research Intern at [Waabi](https://waabi.ai)
-- Software Engineering 2024 at UWaterloo
+I'm Ryan Dancy (he/him). I'm an incoming master's student at the University of Oxford studying Mathematics and Foundations of Computer Science. I graduated in 2024 from Software Engineering at the University of Waterloo, Canada. I'm currently working as an AI research intern at [Waabi](https://waabi.ai).
 
 Previously:
 - AR/VR Intern at the [European Space Agency](https://www.esa.int)
