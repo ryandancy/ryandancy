@@ -2,7 +2,7 @@
 
 I'm Ryan Dancy (he/him). I'm an Associate Quantum Scientist at [Riverlane](https://github.com/riverlane), interested in theoretical computer science and quantum computing.
 
-I completed my MSc in Mathematics and Foundations of Computer Science (MFoCS) at the University of Oxford in 2025. Before that, I completed my Bachelor of Software Engineering in 2024 at the University of Waterloo, Canada.
+I completed my MSc in Mathematics and Foundations of Computer Science (MFoCS) at the University of Oxford in 2025. My dissertation was titled *[Quantum Pebble Games with Applications to Lower Bounds for Symmetric Quantum Circuits](https://github.com/ryandancy/ryandancy/msc-dissertation.pdf)*. Before that, I completed my Bachelor of Software Engineering in 2024 at the University of Waterloo, Canada.
 
 Previous positions:
 - Undergraduate Research Assistant with [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday), working on translating [Alloy](https://alloytools.org) to SMT
