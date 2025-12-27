@@ -5,7 +5,7 @@ I'm Ryan Dancy (he/him). I'm an Associate Quantum Scientist at [Riverlane](https
 I completed my MSc in Mathematics and Foundations of Computer Science (MFoCS) at the University of Oxford in 2025. My dissertation was titled *[Quantum Pebble Games with Applications to Lower Bounds for Symmetric Quantum Circuits](https://github.com/ryandancy/ryandancy/blob/main/msc-dissertation.pdf)*. Before that, I completed my Bachelor of Software Engineering in 2024 at the University of Waterloo, Canada.
 
 Previous positions:
-- Undergraduate Research Assistant with [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday), working on translating [Alloy](https://alloytools.org) to SMT
+- Undergraduate Research Assistant with [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday), working on translating [Alloy](https://alloytools.org) to SMT. See [our paper](https://ieeexplore.ieee.org/document/11242142) in IEEE Transactions on Software Engineering!
 - AR/VR Intern at the [European Space Agency](https://www.esa.int)
 - Software Engineer Intern on the [EAGLE-1](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Eagle-1) quantum key distribution satellite at [SES](https://www.ses.com)
 - AI Research Intern at [Waabi](https://waabi.ai)
